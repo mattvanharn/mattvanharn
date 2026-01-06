@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @mattvanharn
-- 👀 I’m interested in ... Learning as much as possible. 
-- 🌱 I’m currently learning ... Python, C++, and more soon.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mattvanharn/mattvanharn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   # Hi, I'm Matthew Van Harn
+   
+   Recent Computer Science graduate from Calvin University specializing in AI/ML and deep learning.
+   
+   ## 🔧 What I'm Working On
+   - Building neural networks from scratch to understand fundamentals
+   - Exploring transformer architectures and language models
+   - Developing anomaly detection systems
+   
+   ## 🛠️ Technologies
+   - Python, TensorFlow, Deep Learning, Neural Networks, Computer Vision
+   
+   ## 📊 Featured Projects
+   - [Micrograd from Scratch](https://github.com/mattvanharn/micrograd_from_scratch) - Neural networks from first principles
+   - [GPT from Scratch](https://github.com/mattvanharn/GPT_from_scratch) - Building GPT following Karpathy's tutorial
+   
+   ## 📫 Connect
+   - Email: mattvanharn@gmail.com
+   - LinkedIn: [linkedin.com/in/mattvanharn](https://www.linkedin.com/in/mattvanharn/)
