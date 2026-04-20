@@ -29,7 +29,7 @@
   70B) ·
   Deep Learning · LLMs · Prompt Engineering · Data Pipelines
   
-  [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattvanharn)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattvanharn&layout=compact&langs_count=6)
 
   ## Projects
 
