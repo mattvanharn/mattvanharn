@@ -28,6 +28,8 @@
   Python · PyTorch · Polars · DuckDB · SQL · Groq (Llama 3.3
   70B) ·
   Deep Learning · LLMs · Prompt Engineering · Data Pipelines
+  
+  [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattvanharn)](https://github.com/anuraghazra/github-readme-stats)
 
   ## Projects
 
