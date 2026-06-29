@@ -1,7 +1,7 @@
 # Matt Van Harn
 
 I'm a software developer moving into AI/ML and data engineering. Computer Science
-graduate from Calvin University. I mostly work in Python and SQL, and I like building
+graduate from Calvin University. I mostly work in Python, and I like building
 things that actually run rather than reading about them.
 
 ## What I'm working on
