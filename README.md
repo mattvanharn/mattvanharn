@@ -1,48 +1,46 @@
-  # Hi, I'm Matthew Van Harn
+# Matt Van Harn
 
-  Computer Science graduate from Calvin University, building
-  AI/ML systems
-  end-to-end — data pipelines, deep learning models, and
-  natural language
-  interfaces over structured data.
+I'm a software developer moving into AI/ML and data engineering. Computer Science
+graduate from Calvin University. I mostly work in Python and SQL, and I like building
+things that actually run rather than reading about them.
 
-  ## What I'm Building
+## What I'm working on
 
-  **FF AI Assistant** — An ML-powered fantasy football
-  assistant.
+Fantasy Football AI Assistant. It lets you ask fantasy football questions in plain
+English and answers them from a database. The core is a text-to-SQL pipeline I wrote
+by hand: raw Groq API for generating the SQL, sqlglot for validating it before it
+touches the database (DuckDB). Right now I'm adding player projection models with XGBoost.
 
-  - **Milestone 1 (complete):** Natural language to SQL
-  interface. Ask a
-    question in plain English, get an answer grounded in
-  historical NFL stats.
-    Built on DuckDB, Polars, and Llama 3.3 70B via Groq.
-  - **Milestone 2 (in progress):** PyTorch deep learning
-  model for
-    next-season fantasy point projections.
-  - **Milestone 3:** Web demo layer — draft optimizer, trade
-  evaluator,
-    waiver wire targets.
+## Experience
 
-  ## Technologies
+Software Engineering Intern, Prism Controls (May 2023 to Aug 2023). Built a
+convolutional variational autoencoder (CVAE) for anomaly detection on an industrial
+production line. Put together a 5,000+ image dataset with the preprocessing and
+augmentation around it, trained and tuned the model in TensorFlow, and tracked
+experiments with Weights & Biases.
 
-  Python · PyTorch · Polars · DuckDB · SQL · Groq (Llama 3.3
-  70B) ·
-  Deep Learning · LLMs · Prompt Engineering · Data Pipelines
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattvanharn&layout=compact&langs_count=6)
+## Tech
 
-  ## Projects
+Python, SQL, DuckDB, Polars, Groq/LLMs, text-to-SQL, sqlglot, XGBoost. PyTorch,
+TensorFlow, and computer vision from earlier deep learning work. Day to day I'm in
+Linux, git, and Jupyter.
 
-  - [FF AI
-  Assistant](https://github.com/mattvanharn/ff_ai_assistant)
-  —
-    Text-to-SQL + ML projection system for fantasy football
-  strategy.
-    Portfolio project demonstrating end-to-end ML
-  engineering.
+## Projects
 
-  ## Connect
+Fantasy Football AI Assistant. LLM text-to-SQL over DuckDB. (link once it's public)
 
-  - Email: mattvanharn@gmail.com
-  - LinkedIn: [linkedin.com/in/mattvanharn](https://www.linke
-  din.com/in/mattvanharn/)
+EggSight. The CVAE anomaly detection project from my internship.
+
+## Education
+
+Calvin University, Computer Science Plus (2021 to 2025).
+
+## Looking for
+
+ML Engineer, AI Engineer, Data Engineer, Data Scientist, or Python Developer roles.
+Chicago or West Michigan, open to remote.
+
+## Contact
+
+Email: mattvanharn@gmail.com
+LinkedIn: [linkedin.com/in/mattvanharn](https://www.linkedin.com/in/mattvanharn)
